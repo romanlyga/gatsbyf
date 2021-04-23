@@ -6,7 +6,7 @@ intro_content: |
 intro_actions:
   - type: action
     template: action
-    label: Learn More
+    label: Learn
     url: /about
     style: primary
   - type: action
